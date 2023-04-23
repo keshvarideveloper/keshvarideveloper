@@ -40,7 +40,7 @@ I'm a **Software Engineer** from Tehran, Iran.
 
 **My Prrojects Repo:**  
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keshvarideveloper&repo=go-learning&border_color=fad000&theme=algolia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keshvarideveloper&repo=go-learning&border_color=fad000&theme=algolia)](https://github.com/keshvarideveloper/go-learning)
 </p>
 
 
