@@ -46,7 +46,7 @@ I'm a **Software Engineer** from Tehran, Iran.
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=love-date&repo=server&border_color=fad000&theme=algolia)](https://github.com/keshvarideveloper/go-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=love-date&repo=server&border_color=fad000&theme=algolia)](https://github.com/love-date/server)
 </p>
 
 
